@@ -29,6 +29,13 @@ Location:
 
 ---
 
+## License
+
+Unless otherwise specified:
+
+- All analysis scripts and software components are licensed under the MIT License.
+- All datasets are licensed under Creative Commons Attribution 4.0 (CC BY 4.0).
+
 ## Reproducibility Statement
 
 All datasets are version-controlled.  
@@ -38,3 +45,5 @@ To clone including all datasets:
 
 ```bash
 git clone --recurse-submodules https://github.com/naujonas/publication_data.git
+
+
