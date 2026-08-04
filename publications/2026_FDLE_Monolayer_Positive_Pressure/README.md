@@ -4,10 +4,8 @@ Status: In preparation
 
 ## Contents
 - Raw data
-- Processed data
-- Analysis scripts
 
-Code and Data are available for for electrophysiological experiments, epithelial integrity via FITC-dextran, and cellular membrane integrity.
+Data are available for for electrophysiological experiments, epithelial integrity via FITC-dextran, and cellular membrane integrity.
 
 Individual .txt files are available upon request from the corresponding author of the manuscript or from Jonas Naumann via jonas.naumann(at)uni-leipzig.de
 or the GitHub massaging function.
